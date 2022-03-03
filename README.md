@@ -1,0 +1,2 @@
+# powerbirule
+power bi insights
